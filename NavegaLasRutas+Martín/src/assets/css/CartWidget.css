@@ -1,0 +1,28 @@
+.cart-container {
+  position: relative;
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.cart-icon {
+  width: 20px;
+  height: auto;
+}
+
+.counter-badge {
+  position: absolute;
+  top: 15px;
+  right: 10px;
+  background-color: #0a82fa;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10px;
+  font-weight: 500;
+  border-radius: 50%;
+  width: 18px;
+  height: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 0 3px rgba(0,0,0,0.2);
+}
