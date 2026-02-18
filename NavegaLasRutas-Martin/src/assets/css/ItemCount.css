@@ -1,0 +1,33 @@
+.btn-substact{
+    background-color: #1E2639;
+    border: none;
+    padding: 10px;
+    border-radius: 8px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+
+.btn-add {
+    background-color: #1E2639;
+    border: none;
+    padding: 10px;
+    border-radius: 8px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+
+.counter{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+.btn-primary{
+    margin: 20px;
+    padding: 10px;
+    border: none;
+    color: white;
+    font-weight: 500;
+    background-color: #0a82fa;
+    border-radius: 8px;
+}
